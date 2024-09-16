@@ -1,0 +1,44 @@
+#top-section {
+    border: solid 2px rgb(0, 0, 0);
+    /* display: flex; */
+    font-size: medium;
+    width: auto;
+    height: 100vh;
+}
+
+.top-section-a {
+    display: flex;
+}
+
+.image-container {
+    border: solid 2px black;
+}
+
+
+.box2 {
+    border: solid 2px black;
+}
+
+.topsection-b{
+    border: solid 2px black;
+
+
+}
+
+.middlesection-a {
+    border: solid 2px black;
+
+
+}
+.MiddleSection {
+    display: flex;
+    height: 100%;
+}
+
+.middlesection-b {
+    border: solid 2px black;
+    flex-grow: 34; 
+    font-size: medium;
+
+   
+}
