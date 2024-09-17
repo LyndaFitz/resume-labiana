@@ -1,6 +1,5 @@
 #top-section {
     border: solid 2px rgb(0, 0, 0);
-    /* display: flex; */
     font-size: medium;
     width: auto;
     height: 100vh;
@@ -40,5 +39,4 @@
     flex-grow: 34; 
     font-size: medium;
 
-   
 }
